@@ -7,7 +7,9 @@
 🌱 I'm currently diving into advanced techniques in data analysis and machine learning, constantly seeking to expand my skills and stay up-to-date with the latest trends in the field.
 
 
-💞️ I'm actively seeking collaborations on projects related to data science and open source contributions. If you have an exciting project or you're looking for a teammate, feel free to reach out!
+💞️I am seeking opportunities to participate in projects related to data science and contribute to open-source initiatives.
+
+
 📫 How to reach me **bouzayenhajer930@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
